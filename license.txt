@@ -1,4 +1,5 @@
-Original author of the "analog" letter shapes is unknown and "public domain" has been assumed
+Original author of the "analog" letter shapes by Masood Sepehr (http://masoodsepehr.com)
+Created on FontLab by Farhad Sakhaei (https://parsmizban.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
