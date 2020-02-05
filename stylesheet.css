@@ -1,12 +1,13 @@
 @font-face {
     font-family: 'Yekan';
-    src: url('./Yekan.eot');
-    src: url('./Yekan.eot?#iefix') format("embedded-opentype"),
+    src: url('./Yekan.eot'); /* IE9 Compat Modes */
+    src: url('./Yekan.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('./Yekan.otf') format('opentype'), /* Open Type Font */	
+	url('./Yekan.svg#Yekan') format('svg'), /* Legacy iOS */
     url('./Yekan.woff2') format('woff2'),
-    url('./Yekan.woff') format('woff'),
-    url('./Yekan.ttf') format('truetype'),
-	url('./Yekan.otf') format('opentype'),
-    url('.//Yekan.svg#Yekan') format('svg');
+    url('./Yekan.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./Yekan.woff') format('woff'), /* Modern Browsers */	
+    url('./Yekan.woff2') format('woff2'); /* Modern Browsers */    
     font-weight: normal;
     font-style: normal;
 }
