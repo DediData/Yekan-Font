@@ -19,5 +19,7 @@
 ```
 
 Created on FontLab by Farhad Sakhaei (https://parsmizban.com)
-
 Original author of analog letter shapes by Masood Sepehr (http://masoodsepehr.com)
+
+https://transfonter.org/
+Converted from OTF file
