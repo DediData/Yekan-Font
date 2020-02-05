@@ -1,9 +1,6 @@
 # yekan-font
 فونت استاندارد یکان، مناسب برای همه، رایگان
 
-Created on FontLab by Farhad Sakhaei (https://parsmizban.com)
-Original author of analog letter shapes by Masood Sepehr (http://masoodsepehr.com)
-
 استفاده در وب
 
 ```css
@@ -20,3 +17,7 @@ Original author of analog letter shapes by Masood Sepehr (http://masoodsepehr.co
     font-style: normal;
 }
 ```
+
+Created on FontLab by Farhad Sakhaei (https://parsmizban.com)
+
+Original author of analog letter shapes by Masood Sepehr (http://masoodsepehr.com)
