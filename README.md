@@ -14,7 +14,7 @@ Download: https://github.com/ParsMizban/Yekan-Font/releases
     url('./Yekan.woff') format('woff'), /* Modern Browsers */
     url('./Yekan.otf') format('opentype'), /* Open Type Font */
     url('./Yekan.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('./Yekan.svg#Yekan') format('svg'); /* Legacy iOS */    
+    url('./Yekan.svg#Yekan') format('svg'); /* Legacy iOS */
     font-weight: normal;
     font-style: normal;
 }
