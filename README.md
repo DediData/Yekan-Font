@@ -1,6 +1,8 @@
 # yekan-font
 فونت استاندارد یکان، مناسب برای همه، رایگان
 
+Download: https://github.com/ParsMizban/Yekan-Font/releases
+
 استفاده در وب
 
 ```css
