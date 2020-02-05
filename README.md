@@ -10,11 +10,11 @@ Download: https://github.com/ParsMizban/Yekan-Font/releases
     font-family: 'Yekan';
     src: url('./Yekan.eot'); /* IE9 Compat Modes */
     src: url('./Yekan.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-	url('./Yekan.otf') format('opentype'), /* Open Type Font */	
+	url('./Yekan.otf') format('opentype'), /* Open Type Font */
 	url('./Yekan.svg#Yekan') format('svg'), /* Legacy iOS */
     url('./Yekan.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('./Yekan.woff') format('woff'), /* Modern Browsers */	
-    url('./Yekan.woff2') format('woff2'); /* Modern Browsers */    
+    url('./Yekan.woff') format('woff'), /* Modern Browsers */
+    url('./Yekan.woff2') format('woff2'); /* Modern Browsers */
     font-weight: normal;
     font-style: normal;
 }
