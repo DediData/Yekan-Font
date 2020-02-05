@@ -3,7 +3,7 @@
 
 Download: https://github.com/ParsMizban/Yekan-Font/releases
 
-استفاده در وب
+استفاده از فونت یکان در وب
 
 ```css
 @font-face {
