@@ -1,4 +1,4 @@
-# yekan-font
+# yekan-font فونت یکان
 فونت استاندارد یکان، مناسب برای همه، رایگان
 
 Download: https://github.com/ParsMizban/Yekan-Font/releases
