@@ -21,4 +21,5 @@ Download: https://github.com/ParsMizban/Yekan-Font/releases
 ```
 
 Created on FontLab by Farhad Sakhaei (https://parsmizban.com)
+
 Analog letter design by Masood Sepehr (http://masoodsepehr.com)
