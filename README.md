@@ -2,7 +2,6 @@
 
 Download: https://github.com/DediData/Yekan-Font/releases
 
-ا
 ```css
 /* Webfont: Yekan */
 @font-face {
@@ -21,4 +20,5 @@ Download: https://github.com/DediData/Yekan-Font/releases
 ```
 
 Created on FontLab by Farhad Sakhaei (https://dedidata.com)
+
 Analog letter design by Masood Sepehr (http://masoodsepehr.com)
